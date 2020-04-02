@@ -4,6 +4,7 @@ etl.ipynb
 etl_test.py
 etl-Copy1.ipynb
 Sparkify_ERD.drawio
+Sparkify_ERD2.drawio
 test.ipynb
 Untitled.ipynb
 Untitled1.ipynb
@@ -11,3 +12,4 @@ user_validation.py
 create_tables_test.py
 .ipynb_checkpoints/
 .vscode/
+sql_queries_test.py

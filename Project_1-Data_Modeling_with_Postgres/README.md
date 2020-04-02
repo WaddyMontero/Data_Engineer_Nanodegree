@@ -32,4 +32,4 @@ The execution order of the scripts should be:
 
 DB_Schema
 
-![Sparkify Schema](/Sparkify_ERD.png)
+![Sparkify Schema](./Sparkify_ERD.png)
